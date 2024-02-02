@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "author": "wuhao930406 <1148547900@qq.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.3.0",
+    "antd": "^5.13.3",
+    "umi": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "@umijs/plugins": "^4.1.1",
+    "typescript": "^5.0.3"
+  }
+}
